@@ -1,0 +1,13 @@
+qa:
+  url: 'https://myapp.uat'
+  username: 'join1'
+  password: "Secret2023"
+  menu:
+    - 'home'
+    - 'setting'
+    - 'profile'
+
+uat:
+  url: 'https://myapp.uat'
+  username: 'john1'
+  password: "Secret2023"
